@@ -1,0 +1,21 @@
+#EMPLOYEE_ID|FIRST_NAME|LAST_NAME|EMAIL|PHONE|HIRE_DATE|MANAGER_ID|JOB_TITLE
+85|Holly|Shaw|holly.shaw@example.com|650.509.1876|01/27/2016 00:00:00|22|Shipping Clerk
+86|Emilia|Holmes|emilia.holmes@example.com|650.509.2876|02/20/2016 00:00:00|22|Shipping Clerk
+87|Molly|Rice|molly.rice@example.com|650.509.3876|06/24/2016 00:00:00|22|Shipping Clerk
+88|Ellie|Robertson|ellie.robertson@example.com|650.509.4876|02/07/2016 00:00:00|22|Shipping Clerk
+89|Jasmine|Hunt|jasmine.hunt@example.com|650.505.1876|06/14/2016 00:00:00|23|Shipping Clerk
+90|Eliza|Black|eliza.black@example.com|650.505.2876|08/13/2016 00:00:00|23|Shipping Clerk
+91|Lilly|Daniels|lilly.daniels@example.com|650.505.3876|07/11/2016 00:00:00|23|Shipping Clerk
+92|Abigail|Palmer|abigail.palmer@example.com|650.505.4876|12/19/2016 00:00:00|23|Shipping Clerk
+93|Georgia|Mills|georgia.mills@example.com|650.501.1876|02/04/2016 00:00:00|24|Shipping Clerk
+94|Maisie|Nichols|maisie.nichols@example.com|650.501.2876|03/03/2016 00:00:00|24|Shipping Clerk
+95|Eleanor|Grant|eleanor.grant@example.com|650.501.3876|07/01/2016 00:00:00|24|Shipping Clerk
+96|Hannah|Knight|hannah.knight@example.com|650.501.4876|03/17/2016 00:00:00|24|Shipping Clerk
+97|Harriet|Ferguson|harriet.ferguson@example.com|650.507.9811|04/24/2016 00:00:00|25|Shipping Clerk
+98|Amber|Rose|amber.rose@example.com|650.507.9822|05/23/2016 00:00:00|25|Shipping Clerk
+99|Bella|Stone|bella.stone@example.com|650.507.9833|06/21/2016 00:00:00|25|Shipping Clerk
+100|Thea|Hawkins|thea.hawkins@example.com|650.507.9844|01/13/2016 00:00:00|25|Shipping Clerk
+81|Lola|Ramos|lola.ramos@example.com|650.507.9876|01/24/2016 00:00:00|21|Shipping Clerk
+82|Willow|Reyes|willow.reyes@example.com|650.507.9877|02/23/2016 00:00:00|21|Shipping Clerk
+83|Ivy|Burns|ivy.burns@example.com|650.507.9878|06/21/2016 00:00:00|21|Shipping Clerk
+84|Erin|Gordon|erin.gordon@example.com|650.507.9879|02/03/2016 00:00:00|21|Shipping Clerk
